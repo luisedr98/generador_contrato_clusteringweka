@@ -5,8 +5,8 @@ Debido a que github tiene errores al cargar más de dos proyectos, la forma de d
 # CONTRATO- MATRIZ 
 Se encuentra almacenado en una carpeta que lleva el mismo nombre "CONTRATO-MATRIZ"
 
-#GENERADOR
+# GENERADOR
 El proyecto se encuentra comprimido en un archvivo .rar llamado GENERADOR.rar
 
-#CLUSTERING
+# CLUSTERING
 Para la descarga debe acceder al enlace que se encuentra descrito en el archivo "CLUSTERING.txt

@@ -10,3 +10,7 @@ El proyecto se encuentra comprimido en un archvivo .rar llamado GENERADOR.rar
 
 # CLUSTERING
 Para la descarga debe acceder al enlace que se encuentra descrito en el archivo "CLUSTERING.txt
+
+
+
+#Es importante revisar todos los arcchivos

@@ -1,4 +1,4 @@
-# Indicaciones de descarga 
+# Notas de descarga 
 
 Debido a que github tiene errores al cargar más de dos proyectos, la forma de descargar los proyectos de CONTRATO-MATRIZ, GENERADOR y CLUSTERING, se detalla a continuación:
 

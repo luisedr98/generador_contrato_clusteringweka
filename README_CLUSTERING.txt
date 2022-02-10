@@ -1,1 +1,0 @@
-El proyecto de clusterig se encuentra disponible en: https://liveespochedu-my.sharepoint.com/:u:/g/personal/luis_dominguez_espoch_edu_ec/EeRYNxiWZjBOqc217Pk3gisBsYEXMZmv77IV7W--wPUsBA?e=302wpj

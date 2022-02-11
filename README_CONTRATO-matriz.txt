@@ -63,3 +63,7 @@ Ingresar a la carpeta Test Package"/"funciones" para seguir con los siguientes p
 LOCALIZACIÓN DEL INFORME:
 El informe se genera en la raíz del proyecto. El nombre del archivo es "informe.csv"
 
+
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+JDK necesario 1.8
+

@@ -67,3 +67,9 @@ El informe se genera en la raíz del proyecto. El nombre del archivo es "informe
 /*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 JDK necesario 1.8
 
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+Librerias de testing
+https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy/1.6.5
+https://mvnrepository.com/artifact/org.mockito/mockito-all/1.10.19
+https://mvnrepository.com/artifact/org.mockito/mockito-core/4.3.1
